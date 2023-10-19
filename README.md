@@ -74,7 +74,7 @@ bun run preview
 
 ## Author
 ```bash
-ENGR. PLAZA ORLY O.
+PLAZA ORLY O.
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
